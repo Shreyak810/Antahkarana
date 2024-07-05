@@ -2,6 +2,13 @@
 Website to predict heart attack possibility by taking self-reported parameters
 
 Overview of our website 
+[1](https://github.com/Shreyak810/Antahkarana/assets/113600207/7306937c-7889-4b9f-963d-de0b11d173dd)
+
+
+![2](https://github.com/Shreyak810/Antahkarana/assets/113600207/71b52381-6522-4497-b2f9-7402801466d6)
+
+
+![3](https://github.com/Shreyak810/Antahkarana/assets/113600207/c3e2e43d-9874-4527-8469-13b07977ef08)
 
 # Heart Attack Prediction in Youth
 
