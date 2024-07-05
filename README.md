@@ -13,7 +13,6 @@ Website to predict heart attack possibility by taking self-reported parameters
 
 This project focuses on predicting heart attacks in young individuals using advanced machine learning techniques.
 
-![Heart Health]()
 
 ## Introduction
 
